@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Guilherme Rocha (guizovski)
 
-<img src="https://your-banner-url.com/banner.png" alt="guizovski Banner" style="width:100%;"/>
+<img src="banner.png" alt="guizovski Banner" style="width:100%;"/>
 
 > Professional in compile errors 🛠️ | Racing through life 🏎️
 
