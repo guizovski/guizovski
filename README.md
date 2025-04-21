@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Guilherme Rocha (guizovski)
 
-<img src="banner.png" alt="guizovski Banner" style="width:100%;"/>
-
 > Professional in compile errors 🛠️ | Racing through life 🏎️
 
 ## 🚀 About Me
