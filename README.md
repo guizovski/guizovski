@@ -15,15 +15,6 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📈 GitHub Stats
-![guizovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=guizovski&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=guizovski&theme=radical)
-
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=guizovski&color=blue&style=flat-square)
-
 ## 📫 Connect with me
 - LinkedIn: [Coming soon 🚧]
 
