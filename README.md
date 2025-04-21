@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📫 Connect with me
-- LinkedIn: (https://www.linkedin.com/in/rochamg/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/rochamg/)
 
 ---
 _"From kart tracks to code stacks, I’m always chasing the next big win."_ 🏁
