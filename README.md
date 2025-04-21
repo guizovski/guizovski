@@ -1,5 +1,7 @@
 # 👋 Hey, I'm Guilherme Rocha (guizovski)
 
+<img src="https://your-banner-url.com/banner.png" alt="guizovski Banner" style="width:100%;"/>
+
 > Professional in compile errors 🛠️ | Racing through life 🏎️
 
 ## 🚀 About Me
@@ -17,6 +19,12 @@
 
 ## 📈 GitHub Stats
 ![guizovski's GitHub stats](https://github-readme-stats.vercel.app/api?username=guizovski&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=guizovski&theme=radical)
+
+## 👀 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=guizovski&color=blue&style=flat-square)
 
 ## 📫 Connect with me
 - LinkedIn: [Coming soon 🚧]
