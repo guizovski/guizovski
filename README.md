@@ -3,7 +3,7 @@
 > Professional in compile errors 🛠️ | Racing through life 🏎️
 
 ## 🚀 About Me
-- 🎓 Computer Engineering student @ **NOVA FCT** (2nd Year)
+- 🎓 Computer Engineering student @ **NOVA FCT** (3rd Year)
 - 🏎️ International Karting Driver — speed runs both in circuits and code
 - 💻 Passionate about software development, technology, and solving real-world problems
 - 🔍 Always curious, always learning
@@ -14,6 +14,7 @@
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/rochamg/)
