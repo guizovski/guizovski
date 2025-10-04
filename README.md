@@ -14,7 +14,7 @@
 ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)
+![JavaScript](https://camo.githubusercontent.com/71a05982226ad8c04589b2314c709d3f24543145232cd6bf7952a27789919761/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d463744463145)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/rochamg/)
